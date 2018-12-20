@@ -6,7 +6,7 @@ class App extends Component {
   state = {
     input: '',
     list: [],
-    test: "hello, I'm a big test"
+    test: "hello, I'm a test"
   }
 
   onChange = e => {
